@@ -16,7 +16,6 @@ while True:
         fn.registrar_trabajador(trabajadores)
     elif opcion == 2:
         fn.listar_trabajadores(trabajadores)
-        print(trabajadores)
     elif opcion == 3:
         fn.imprimir_plantillas(trabajadores)
     elif opcion == 4:
