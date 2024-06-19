@@ -2,7 +2,6 @@ import funciones as fn
 
 
 trabajadores = []
-print(trabajadores)
 
 while True:
     print("Bienvenidos al super sistema de pago de sueldo")
