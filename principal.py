@@ -15,12 +15,14 @@ while True:
 
     if opcion == 1:
         fn.registrar_trabajador(trabajadores)
+        print(trabajadores)
     elif opcion == 2:
         fn.listar_trabajadores(trabajadores)
         print(trabajadores)
     elif opcion == 3:
         fn.imprimir_plantillas(trabajadores)
     elif opcion == 4:
+        print(trabajadores)
         break
     else:
         print("opcion no valida,seleccione nuevamente")

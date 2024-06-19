@@ -1,7 +1,14 @@
-nombre y apellido:Bernardo Cameron
+nombre y apellido:Francisco Martinez
+cargo:ceo
+sueldo Burto: 200000
+desc De Salud : 14000.000000000002
+Desc Afp: 24000.0
+liquido a Pagar: 162000.0
+
+nombre y apellido:Bacteria
 cargo:desarrollador
-sueldo Burto: 5000000
-desc De Salud : 350000.00000000006
-Desc Afp: 600000.0
-liquido a Pagar: 4050000.0
+sueldo Burto: 1500
+desc De Salud : 105.00000000000001
+Desc Afp: 180.0
+liquido a Pagar: 1215.0
 
