@@ -2,7 +2,6 @@ import funciones as fn
 
 
 trabajadores = []
-print(trabajadores)
 
 while True:
     print("Bienvenidos al super sistema de pago de sueldo")
@@ -18,7 +17,6 @@ while True:
         print(trabajadores)
     elif opcion == 2:
         fn.listar_trabajadores(trabajadores)
-        print(trabajadores)
     elif opcion == 3:
         fn.imprimir_plantillas(trabajadores)
     elif opcion == 4:
